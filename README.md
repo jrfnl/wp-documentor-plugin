@@ -1,4 +1,4 @@
-wp-plugin-hook-documentor-plugin
+wp-hook-documentor-plugin
 ================================
 
-A WordPress plugin to make the wp-plugin-hook-documentor available within WordPress
+A WordPress plugin to make the wp-hook-documentor available within any WordPress installation
